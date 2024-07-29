@@ -21,3 +21,290 @@ nav {
     background-color: white;
     color: #0D1321;
     }
+.hero-bg {
+  background-image: url(../B10A1-Challenge-Begins/assets/Hero-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.size {
+  font-size: 20px;
+}
+/*.every-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}*/
+            
+.secondary-element {
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+header h2 {
+  font-weight: 800;
+  font-size: 48px;
+  color: #0D1321;
+  text-align: center;
+}
+header h5 {
+  font-weight: 400;
+  font-size: 16px;
+  color: #0D1321;
+  text-align: center;
+  
+}
+#total-section {
+  padding: 26px 220px 45px;
+}
+.btn-2 {
+  border-radius: 8px;
+  background-color: #0D1321;
+  color: #FFFFFF;
+  border: none;
+}
+header div button {
+font-weight: 700;
+font-size: 20px;
+padding: 21px 24px;
+}
+.secondary-bg {
+  background-color: rgba(13, 19, 33, 0.02);
+}
+.main-third-div {
+  text-align: center;
+  border-radius: 16px;
+  padding: 60px 144px 100px;
+  margin-top: 70px;
+  
+  }
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.title {
+  font-weight: 900;
+  font-size: 32px;
+}
+.title-description{
+  font-weight: 400;
+  font-size: 17px;
+  color:rgba(13, 19, 33, 1) ;
+}
+.first-and-third-details {
+  text-align: left;
+}
+
+.first-and-third-phase {
+     background-color: rgba(255, 255, 255, 1);
+     display: flex;
+     justify-content: space-between;
+     border-radius: 16px;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     padding-left: 25px;
+     margin-top: 45px;
+    }
+  .main-headlines {
+    font-weight: 700;
+    font-size: 24px;
+    color: rgba(13, 19, 33, 0.7);
+  }
+  .main-details {
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(13, 19, 33, 0.7);
+  }
+  .shared-btn {
+       font-weight: 600;
+       font-size: 15px;
+       padding: 8px 12px;
+       background-color: white;
+       margin: 45px 0px 25px 0px;
+  }
+  .inspiration {
+    background-color: #FFFFFF;
+    text-align: center;
+    justify-content: center;
+  }
+  .inspiration-title {
+    font-weight: 900;
+  font-size: 32px;
+  } 
+  .inspiration-details {
+    font-weight: 400;
+  font-size: 17px;
+  color:rgba(13, 19, 33, 1) ;
+  margin-top: -10px;
+  }
+  .border {
+    border-style: solid;
+    border-radius: 16px;
+    border-color: darkgray;
+  }
+  .embed-video {
+    border-radius: 16px;
+    padding: 32px;
+  }
+  .bap-current-class {
+    text-align: center;
+  }
+  .current-target {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+  }
+  .current-target-title {
+    font-weight: 900;
+    font-size: 32px;
+  }
+  .current-target-details {
+    font-weight: 400;
+    font-size: 17px;
+  }
+  .html-bg {
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+    padding: 40px;
+    margin-right: 17px;
+  }
+  .css-bg {
+    background-color:rgba(0, 76, 232, 0.05) ;
+    padding: 40px;
+    border-radius: 16px;
+  }
+  .JS-bg {
+    background-color:rgba(255, 223, 0, 0.05) ;
+    border-radius: 16px;
+    padding: 40px;
+    margin-left: 17px;
+  }
+  .nxt-trgt-title {
+    font-weight: 900;
+    font-size: 32px;
+    text-align: center;
+  }
+  .nxt-trgt-dtls {
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+    margin-top: -7px;
+  }
+  .nxt-trgt-dscrptn {
+    display: flex;
+    text-align: left;
+    justify-content: space-around space-between;
+    gap: 20px;
+    align-items: center;
+    border-style: solid;
+    border-color: darkgray;
+    border-radius: 16px;
+    padding: 9px 19px 23px;
+    margin-bottom: 10px;
+    }
+  section h4 {
+    font-weight: 800;
+    font-size: 24px;
+  }
+.crnt-trgt-tknlg {
+  font-weight: 400;
+  font-size: 17px;
+  }
+  .node-js {
+    padding-left: 35px;
+  }
+  .react-js {
+    padding-left: 27px;
+  }
+  .font-size {
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(13, 19, 33, 0.6);
+  }
+  .js-img {
+          padding-top: 23px;
+  }
+  .node-js-img {
+          padding-top: 20px;
+  }
+  .support-bg {
+    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
+    background-color:rgba(0, 0, 0, 0.2) ;
+    background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg); 
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    background-position: center center;
+    /*background-attachment: fixed;*/
+   /*height: 200px;*/
+    
+  }
+  .spprt-sctn {
+    text-align: center;
+    padding: 90px 50px 100px;
+    color: rgba(255, 255, 255, 1);
+  }
+  .spprt-HL {
+    display: inline-block;
+   background-color: darkgray;
+    font-weight: 900;
+    font-size: 32px;
+  }
+  .spprt-dtls{
+    font-weight: 400;
+    font-size: 17px;
+  }
+  .support-form {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    gap: 16px;
+  }
+  textarea {
+    border-radius: 8px;
+    border-color: none;
+    resize: none;
+  }
+  ::placeholder {
+    color:rgba(13, 19, 33, 0.4) ;
+    font-weight: 500;
+    font-size: 19px;
+    padding:12px 0px 0px 20px ;
+  }
+  .support-btn {
+    border-radius: 8px;
+    border-style: solid;
+    border-color: none;
+    width: 120px;
+    height: 50px;
+    background-color: #FFFFFF;
+    font-weight: 800;
+    font-size: 20px;
+    color: rgba(13, 19, 33, 1);
+  }
+  /*footer design*/
+  footer {
+    background-color: rgba(13, 19, 33, 0.03);
+    border-radius: 16px;
+    }
+  .cmmtmnt {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 12px;
+    /*justify-content: space-around ;*/
+    /*justify-content: center;*/
+  }
+  .social-media-icons {
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    }
+    footer p {
+      font-weight: 700;
+      font-size: 20px;
+      
+    }
